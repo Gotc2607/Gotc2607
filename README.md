@@ -91,7 +91,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=gotc2607&theme=tokyonight" alt="Minhas contribuições 3D">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Gotc2607&theme=tokyonight" alt="Minhas contribuições 3D">
 </div>
 
 
