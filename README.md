@@ -90,8 +90,8 @@
 
 ---
 
-### 🐍 Minha Cobrinha de Contribuições
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gotc2607/Gotc2607/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=gotc2607&theme=tokyonight" alt="Minhas contribuições 3D">
 </div>
+
+
