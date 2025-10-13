@@ -77,10 +77,12 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gotc2607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotc2607&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotc2607&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=gotc2607&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gotc2607&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
@@ -91,4 +93,3 @@
 <div align="center">
   <img src="https://github.com/gotc2607/gotc2607/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-
