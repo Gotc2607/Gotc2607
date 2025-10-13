@@ -93,5 +93,5 @@
 ### 🐍 Minha Cobrinha de Contribuições
 
 <div align="center">
-  <img src="https://github.com/gotc2607/gotc2607/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/gotc2607/gotc2607/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
