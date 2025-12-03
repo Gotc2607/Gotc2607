@@ -25,7 +25,7 @@
 - 🔭 Atualmente estou trabalhando em um projeto de **[Descreva seu projeto ou área de atuação na empresa]**.
 - 🌱 Estou aprofundando meus conhecimentos em **[Docker, Kubernetes, AWS, etc.]**.
 - 💬 Fique à vontade para me perguntar sobre **JavaScript, TypeScript, Node.js, React e Python**.
-- 📫 Contate-me através do email: **[seu.email@provedor.com]**
+- 📫 Contate-me através do email: **[giovanicoelho2005@gmail.com]**
 - 😄 Pronomes: Ele/Dele
 
 ---
