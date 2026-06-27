@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes, com foco no ecossistema JavaScript e Python.</em>
+  <em>Desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes, com foco em frontend com React e javascript mas com conhecimento em backend com Node.js.</em>
 </p>
 
 <div align="center">
