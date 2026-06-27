@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[SEU-USUARIO-LINKEDIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/linkedin.com/in/giovani-coelho-0780ba304" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:[giovanicoelho2005@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://[SEU-SITE-OU-PORTFOLIO.com]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"></a>
+
 </div>
 
 ---
@@ -22,8 +22,8 @@
   Sou um desenvolvedor de software com experiência em <strong>Desenvolvimento Web Full-Stack</strong>. Tenho um grande interesse em tecnologias modernas e em como elas podem ser usadas para resolver problemas reais. Atualmente, estou focado em aprimorar minhas habilidades em arquiteturas de microsserviços e computação em nuvem.
 </p>
 
-- 🔭 Atualmente estou trabalhando em um projeto de **[Descreva seu projeto ou área de atuação na empresa]**.
-- 🌱 Estou aprofundando meus conhecimentos em **[Docker, Kubernetes, AWS, etc.]**.
+- 🔭 Atualmente estou trabalhando em um projeto de ** desenvolvimento de uma plataforma de seguros**.
+- 🌱 Estou aprofundando meus conhecimentos em ** Estrutura de Dados, React e SQL**.
 - 💬 Fique à vontade para me perguntar sobre **JavaScript, TypeScript, Node.js, React e Python**.
 - 📫 Contate-me através do email: **[giovanicoelho2005@gmail.com]**
 - 😄 Pronomes: Ele/Dele
