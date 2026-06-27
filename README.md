@@ -87,11 +87,3 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gotc2607&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Gotc2607&theme=tokyonight" alt="Minhas contribuições 3D">
-</div>
-
-
